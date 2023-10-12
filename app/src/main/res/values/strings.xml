@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ToCook</string>
+    <string name="sample_date">06.08.2023</string>
+    <string name="sample_title">Название рецепта</string>
+    <string name="sample_desc">Описание рецепта: Нужно сделать как можно скорее и как можно лучше</string>
+    <string name="description_item_menu">Действия с задачей</string>
+    <string name="menu_remove">Удалить</string>
+    <string name="add_item">Добавить задачу</string>
+    <string name="new_item">Новый рецепт</string>
+    <string name="heading">Книга рецептов</string>
+    <string name="add_title">Как называется рецепт</string>
+    <string name="add_desc">Когда его лучше готовить,\nбыстро делается или нет</string>
+    <string name="save">Сохранить</string>
+    <string name="clear">Удалить все</string>
+    <string name="change_order">В другом порядке</string>
+    <string name="sample_components">Что нужно:</string>
+    <string name="sample_components_desc">Мясо, кофе, молоко</string>
+    <string name="todo_title">Как готовить:</string>
+    <string name="add_comps">Что взять и сколько</string>
+    <string name="add_steps">Опишите по шагам, как готовить</string>
+    <string name="new_data">Новый рецепт</string>
+</resources>
